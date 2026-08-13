@@ -15,8 +15,6 @@ Product data science roles at the intersection of AI, human behavior, and produc
 
 Currently learning:
 
-Python — DataCamp
-SQL — DataCamp
 Essential Math for Applied DS & AI — DU COMP 4009
 
 UXR toolkit:

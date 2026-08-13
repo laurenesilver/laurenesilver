@@ -21,6 +21,9 @@ UXR toolkit:
 UserTesting · UserInterviews · UserTesting · Figma · Miro · Confluence · Jira · Dbeaver · UserZoom · Velaris
 
 Let's connect:
+
 🌐 lauren-silver-portfolio.squarespace.com
+
 💼 linkedin.com/in/laurenesilver
+
 📧 lelizabethsilver@gmail.com

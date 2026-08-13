@@ -13,7 +13,11 @@ What I'm building toward:
 
 Product data science roles at the intersection of AI, human behavior, and product decision-making — eventually targeting senior IC roles at FAANG or adjacent companies, with a long-term interest in AI ethics research.
 
-Currently learning: Essential Math for Applied DS & AI — DU COMP 4009
+Currently learning:
+
+- Essential Math for Applied DS & AI — DU COMP 4009
+- Python — DataCamp
+- SQL — DataCamp
 
 UXR toolkit:
 UserTesting · UserInterviews · Figma · Miro · Confluence · Jira · Dbeaver · UserZoom · Velaris

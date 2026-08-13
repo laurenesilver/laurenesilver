@@ -5,7 +5,9 @@ Currently pursuing an MS in Data Science & AI at the University of Denver while 
 
 My background:
 🔬 BS Cognitive Neuroscience — Colorado State University
+
 🎨 MS HCI (on hold) — Indiana University Bloomington
+
 📊 MS Data Science & AI (in progress) — University of Denver
 
 What I'm building toward:
@@ -13,7 +15,9 @@ Product data science roles at the intersection of AI, human behavior, and produc
 
 Currently learning:
 Python — DataCamp
+
 SQL — DataCamp
+
 Essential Math for Applied DS & AI — DU COMP 4009
 
 UXR toolkit:

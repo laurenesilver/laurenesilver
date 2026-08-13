@@ -6,7 +6,6 @@ Currently pursuing an MS in Data Science & AI at the University of Denver while 
 My background:
 
 🔬 BS Cognitive Neuroscience — Colorado State University
-🎨 MS HCI (on hold) — Indiana University Bloomington
 📊 MS Data Science & AI (in progress) — University of Denver
 
 What I'm building toward:

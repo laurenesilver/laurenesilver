@@ -1,7 +1,7 @@
 Hi, I'm Lauren Silver 👋
 
-I'm a UX Researcher transitioning into product data science, combining 4+ years of behavioral research expertise with technical data science skills to bridge the gap between human insight and quantitative analysis.
-Currently pursuing an MS in Data Science & AI Engineering at the University of Denver while working as a UX Researcher, where I design and manage our rapid research program informing product decisions across enterprise software.
+UX Researcher turned Product Data Scientist — I bring 4+ years of behavioral research expertise into the world of data science, where human insight and quantitative analysis meet.
+Currently pursuing an MS in Data Science & AI at the University of Denver alongside my work leading rapid UX research at a Denver-based enterprise SaaS company, where my studies influence how I ask better questions of both users and data.
 
 My background:
 

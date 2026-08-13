@@ -1,7 +1,7 @@
 Hi, I'm Lauren Silver 👋
 
 I'm a UX Researcher transitioning into product data science, combining 4+ years of behavioral research expertise with technical data science skills to bridge the gap between human insight and quantitative analysis.
-Currently pursuing an MS in Data Science & AI at the University of Denver while working as a UX Researcher at Pax8, where I design and execute rapid research studies informing product decisions across enterprise software.
+Currently pursuing an MS in Data Science & AI Engineering at the University of Denver while working as a UX Researcher, where I design and manage our rapid research program informing product decisions across enterprise software.
 
 My background:
 
@@ -23,5 +23,7 @@ UserTesting · UserInterviews · UserTesting · Figma · Miro · Confluence · J
 Let's connect:
 
 🌐 lauren-silver-portfolio.squarespace.com
+
 💼 linkedin.com/in/laurenesilver
+
 📧 lelizabethsilver@gmail.com

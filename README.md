@@ -16,11 +16,9 @@ Product data science roles at the intersection of AI, human behavior, and produc
 Currently learning: Essential Math for Applied DS & AI — DU COMP 4009
 
 UXR toolkit:
-UserTesting · UserInterviews · UserTesting · Figma · Miro · Confluence · Jira · Dbeaver · UserZoom · Velaris
+UserTesting · UserInterviews · Figma · Miro · Confluence · Jira · Dbeaver · UserZoom · Velaris
 
 Let's connect:
-
-🌐 lauren-silver-portfolio.squarespace.com
 
 💼 linkedin.com/in/laurenesilver
 

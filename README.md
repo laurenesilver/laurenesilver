@@ -23,7 +23,5 @@ UserTesting · UserInterviews · UserTesting · Figma · Miro · Confluence · J
 Let's connect:
 
 🌐 lauren-silver-portfolio.squarespace.com
-
 💼 linkedin.com/in/laurenesilver
-
 📧 lelizabethsilver@gmail.com

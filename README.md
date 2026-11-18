@@ -1,6 +1,6 @@
 Hi, I'm Lauren Silver 👋
 
-UX Researcher turned Data Analyst — I bring 4+ years of behavioral research expertise into the world of data science, where human insight and quantitative analysis meet.
+UX Researcher turned Data Analyst — I bring 5+ years of behavioral research expertise into the world of data science, where human insight and quantitative analysis meet.
 Currently pursuing an MS in Data Science & AI at the University of Denver alongside my work leading rapid UX research at a Denver-based enterprise SaaS company, where my studies influence how I ask better questions of both users and data.
 
 My background:
